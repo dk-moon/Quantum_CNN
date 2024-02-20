@@ -1,6 +1,6 @@
 # Quantum_CNN
 Research Quantum Computing Algorithm
-- CIFAR-10 데이터셋을 대상으로 양자 컴퓨팅과 딥러닝을 결합한 Quantum CNN 알고리즘을 구현
+- CIFAR-10 데이터셋을 대상으로 양자 컴퓨팅과 딥러닝을 결합한 Quantum CNN 알고리즘을 구현
 
 ### 목표
 - 양자 컴퓨팅 기술의 이해 : 양자 컴퓨팅의 기본 원리와 알고리즘을 이해하고, 딥러닝 알고리즘에 어떻게 적용할 수 있는지 연구
